@@ -1,0 +1,14 @@
+{
+  "project": "easy-rag",
+  "description": "NestJS template for orchestrating RAGs",
+  "stack": {
+    "language": "TypeScript",
+    "framework": "NestJS",
+    "package_manager": "pnpm",
+    "test_framework": "jest",
+    "orchestration_library": "tbd"
+  },
+  "artifact_store": "files-only",
+  "chain_strategy": "single-pr",
+  "sdd_init_complete": true
+}
